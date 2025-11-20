@@ -1,0 +1,39 @@
+﻿  S&Lsfml.cpp
+D:\visualstudio\snake&leadders\snake&leadders\S&Lsfml.cpp(33,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\visualstudio\snake&leadders\snake&leadders\S&Lsfml.cpp(33,51): warning C4244:         with
+D:\visualstudio\snake&leadders\snake&leadders\S&Lsfml.cpp(33,51): warning C4244:         [
+D:\visualstudio\snake&leadders\snake&leadders\S&Lsfml.cpp(33,51): warning C4244:             T=float
+D:\visualstudio\snake&leadders\snake&leadders\S&Lsfml.cpp(33,51): warning C4244:         ]
+D:\visualstudio\snake&leadders\snake&leadders\S&Lsfml.cpp(92,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\visualstudio\snake&leadders\snake&leadders\S&Lsfml.cpp(92,47): warning C4244:         with
+D:\visualstudio\snake&leadders\snake&leadders\S&Lsfml.cpp(92,47): warning C4244:         [
+D:\visualstudio\snake&leadders\snake&leadders\S&Lsfml.cpp(92,47): warning C4244:             T=float
+D:\visualstudio\snake&leadders\snake&leadders\S&Lsfml.cpp(92,47): warning C4244:         ]
+D:\visualstudio\snake&leadders\snake&leadders\S&Lsfml.cpp(92,26): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\visualstudio\snake&leadders\snake&leadders\S&Lsfml.cpp(92,26): warning C4244:         with
+D:\visualstudio\snake&leadders\snake&leadders\S&Lsfml.cpp(92,26): warning C4244:         [
+D:\visualstudio\snake&leadders\snake&leadders\S&Lsfml.cpp(92,26): warning C4244:             T=float
+D:\visualstudio\snake&leadders\snake&leadders\S&Lsfml.cpp(92,26): warning C4244:         ]
+D:\visualstudio\snake&leadders\snake&leadders\S&Lsfml.cpp(106,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\visualstudio\snake&leadders\snake&leadders\S&Lsfml.cpp(107,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\visualstudio\snake&leadders\snake&leadders\S&Lsfml.cpp(115,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\visualstudio\snake&leadders\snake&leadders\S&Lsfml.cpp(116,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\visualstudio\snake&leadders\snake&leadders\S&Lsfml.cpp(141,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\visualstudio\snake&leadders\snake&leadders\S&Lsfml.cpp(141,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\visualstudio\snake&leadders\snake&leadders\S&Lsfml.cpp(146,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\visualstudio\snake&leadders\snake&leadders\S&Lsfml.cpp(146,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\visualstudio\snake&leadders\snake&leadders\S&Lsfml.cpp(157,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\visualstudio\snake&leadders\snake&leadders\S&Lsfml.cpp(165,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\visualstudio\snake&leadders\snake&leadders\S&Lsfml.cpp(202,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\visualstudio\snake&leadders\snake&leadders\S&Lsfml.cpp(202,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\visualstudio\snake&leadders\snake&leadders\S&Lsfml.cpp(207,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\visualstudio\snake&leadders\snake&leadders\S&Lsfml.cpp(207,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\visualstudio\snake&leadders\snake&leadders\S&Lsfml.cpp(217,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\visualstudio\snake&leadders\snake&leadders\S&Lsfml.cpp(225,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  game.cpp
+  Generating code
+  3 of 270 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  snake&leadders.vcxproj -> D:\visualstudio\snake&leadders\x64\Release\snake&leadders.exe
